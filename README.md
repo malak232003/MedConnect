@@ -8,3 +8,10 @@ Plateforme Web de gestion des disponibilités des médecins et des rendez-vous m
 - Gestion des comptes médecins/utilisateurs
 - Recherche de médecins
 - Gestion des rendez-vous médicaux
+## Installation
+
+1. Cloner le projet :
+
+   git clone https://github.com/username/MedConnect.git
+
+2. Ouvrir index.html dans un navigateur.
